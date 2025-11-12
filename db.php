@@ -1,5 +1,4 @@
 <?php
-// Database configuration
 $host = "localhost";
 $user = "root";
 $password = "Hm@0724356198";
