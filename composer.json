@@ -1,0 +1,14 @@
+{
+    "name": "henry/estatehub",
+    "description": "My realestate project",
+    "type": "p",
+    "authors": [
+        {
+            "name": "Henry-ai443",
+            "email": "henrymaina2024@outlook.com"
+        }
+    ],
+    "require": {
+        "firebase/php-jwt": "^6.11"
+    }
+}

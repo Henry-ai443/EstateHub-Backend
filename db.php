@@ -2,7 +2,7 @@
 $host = "localhost";
 $user = "root";
 $password = "Hm@0724356198";
-$dbname = "REMS";
+$dbname = "estatehub";
 
 try {
     $conn = new mysqli($host, $user, $password, $dbname);
